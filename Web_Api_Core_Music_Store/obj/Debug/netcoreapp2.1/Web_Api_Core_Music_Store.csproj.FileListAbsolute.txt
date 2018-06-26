@@ -1,0 +1,14 @@
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/bin/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.deps.json
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/bin/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.runtimeconfig.json
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/bin/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.runtimeconfig.dev.json
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/bin/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.dll
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/bin/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.pdb
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/obj/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.csprojAssemblyReference.cache
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/obj/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.csproj.CoreCompileInputs.cache
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/obj/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.RazorAssemblyInfo.cache
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/obj/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.RazorAssemblyInfo.cs
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/obj/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.AssemblyInfoInputs.cache
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/obj/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.AssemblyInfo.cs
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/obj/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.RazorTargetAssemblyInfo.cache
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/obj/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.dll
+/Users/MagicBo/Documents/GitHub/CSharp/Web_Api_Core_Music_Store/obj/Debug/netcoreapp2.1/Web_Api_Core_Music_Store.pdb

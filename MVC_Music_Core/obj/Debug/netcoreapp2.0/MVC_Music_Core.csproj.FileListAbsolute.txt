@@ -1,0 +1,11 @@
+/Users/MagicBo/Documents/GitHub/CSharp/MVC_Music_Core/bin/Debug/netcoreapp2.0/MVC_Music_Core.deps.json
+/Users/MagicBo/Documents/GitHub/CSharp/MVC_Music_Core/bin/Debug/netcoreapp2.0/MVC_Music_Core.runtimeconfig.json
+/Users/MagicBo/Documents/GitHub/CSharp/MVC_Music_Core/bin/Debug/netcoreapp2.0/MVC_Music_Core.runtimeconfig.dev.json
+/Users/MagicBo/Documents/GitHub/CSharp/MVC_Music_Core/bin/Debug/netcoreapp2.0/MVC_Music_Core.dll
+/Users/MagicBo/Documents/GitHub/CSharp/MVC_Music_Core/bin/Debug/netcoreapp2.0/MVC_Music_Core.pdb
+/Users/MagicBo/Documents/GitHub/CSharp/MVC_Music_Core/obj/Debug/netcoreapp2.0/MVC_Music_Core.csprojResolveAssemblyReference.cache
+/Users/MagicBo/Documents/GitHub/CSharp/MVC_Music_Core/obj/Debug/netcoreapp2.0/MVC_Music_Core.csproj.CoreCompileInputs.cache
+/Users/MagicBo/Documents/GitHub/CSharp/MVC_Music_Core/obj/Debug/netcoreapp2.0/MVC_Music_Core.AssemblyInfoInputs.cache
+/Users/MagicBo/Documents/GitHub/CSharp/MVC_Music_Core/obj/Debug/netcoreapp2.0/MVC_Music_Core.AssemblyInfo.cs
+/Users/MagicBo/Documents/GitHub/CSharp/MVC_Music_Core/obj/Debug/netcoreapp2.0/MVC_Music_Core.dll
+/Users/MagicBo/Documents/GitHub/CSharp/MVC_Music_Core/obj/Debug/netcoreapp2.0/MVC_Music_Core.pdb
