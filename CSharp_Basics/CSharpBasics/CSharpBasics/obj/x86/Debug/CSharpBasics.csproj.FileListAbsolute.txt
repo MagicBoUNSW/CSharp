@@ -1,0 +1,6 @@
+/Users/MagicBo/Documents/GitHub/CSharp/CSharp_Basics/CSharpBasics/CSharpBasics/bin/Debug/CSharpBasics.exe
+/Users/MagicBo/Documents/GitHub/CSharp/CSharp_Basics/CSharpBasics/CSharpBasics/bin/Debug/CSharpBasics.pdb
+/Users/MagicBo/Documents/GitHub/CSharp/CSharp_Basics/CSharpBasics/CSharpBasics/obj/x86/Debug/CSharpBasics.csprojResolveAssemblyReference.cache
+/Users/MagicBo/Documents/GitHub/CSharp/CSharp_Basics/CSharpBasics/CSharpBasics/obj/x86/Debug/CSharpBasics.csproj.CoreCompileInputs.cache
+/Users/MagicBo/Documents/GitHub/CSharp/CSharp_Basics/CSharpBasics/CSharpBasics/obj/x86/Debug/CSharpBasics.exe
+/Users/MagicBo/Documents/GitHub/CSharp/CSharp_Basics/CSharpBasics/CSharpBasics/obj/x86/Debug/CSharpBasics.pdb
