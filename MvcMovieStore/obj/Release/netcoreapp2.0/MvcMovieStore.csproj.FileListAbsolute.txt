@@ -1,0 +1,10 @@
+/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/bin/Release/netcoreapp2.0/MvcMovieStore.deps.json
+/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/bin/Release/netcoreapp2.0/MvcMovieStore.runtimeconfig.json
+/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/bin/Release/netcoreapp2.0/MvcMovieStore.runtimeconfig.dev.json
+/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/bin/Release/netcoreapp2.0/MvcMovieStore.dll
+/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/bin/Release/netcoreapp2.0/MvcMovieStore.pdb
+/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/obj/Release/netcoreapp2.0/MvcMovieStore.csproj.CoreCompileInputs.cache
+/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/obj/Release/netcoreapp2.0/MvcMovieStore.AssemblyInfoInputs.cache
+/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/obj/Release/netcoreapp2.0/MvcMovieStore.AssemblyInfo.cs
+/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/obj/Release/netcoreapp2.0/MvcMovieStore.dll
+/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/obj/Release/netcoreapp2.0/MvcMovieStore.pdb

@@ -1,0 +1,12 @@
+/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=MvcMovieStore
+--content-root=/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore
+--file=/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/Views/Home/About.cshtml
+--file=/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/Views/Home/Contact.cshtml
+--file=/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/Views/Home/Index.cshtml
+--file=/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/Views/Shared/Error.cshtml
+--file=/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/Views/Shared/_Layout.cshtml
+--file=/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/Views/_ViewImports.cshtml
+--file=/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/Views/_ViewStart.cshtml

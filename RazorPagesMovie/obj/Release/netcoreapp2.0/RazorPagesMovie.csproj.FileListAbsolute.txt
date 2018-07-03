@@ -1,0 +1,11 @@
+/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/bin/Release/netcoreapp2.0/RazorPagesMovie.deps.json
+/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/bin/Release/netcoreapp2.0/RazorPagesMovie.runtimeconfig.json
+/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/bin/Release/netcoreapp2.0/RazorPagesMovie.runtimeconfig.dev.json
+/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/bin/Release/netcoreapp2.0/RazorPagesMovie.dll
+/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/bin/Release/netcoreapp2.0/RazorPagesMovie.pdb
+/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/obj/Release/netcoreapp2.0/RazorPagesMovie.csprojResolveAssemblyReference.cache
+/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/obj/Release/netcoreapp2.0/RazorPagesMovie.csproj.CoreCompileInputs.cache
+/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/obj/Release/netcoreapp2.0/RazorPagesMovie.AssemblyInfoInputs.cache
+/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/obj/Release/netcoreapp2.0/RazorPagesMovie.AssemblyInfo.cs
+/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/obj/Release/netcoreapp2.0/RazorPagesMovie.dll
+/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/obj/Release/netcoreapp2.0/RazorPagesMovie.pdb

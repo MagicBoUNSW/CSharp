@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/MvcMovieStore.csproj",
-      "projectName": "MvcMovieStore",
-      "projectPath": "/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/MvcMovieStore.csproj",
+      "projectUniqueName": "/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectName": "RazorPagesMovie",
+      "projectPath": "/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/RazorPagesMovie.csproj",
       "packagesPath": "/Users/MagicBo/.nuget/packages/",
-      "outputPath": "/Users/MagicBo/Documents/GitHub/CSharp/MvcMovieStore/obj",
+      "outputPath": "/Users/MagicBo/Documents/GitHub/CSharp/RazorPagesMovie/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
